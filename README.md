@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Intelligent Resume Analyzer & ATS Score Checker
 
 A premium, professional AI-powered Intelligent Resume Analyzer web application built with Python and Streamlit. This offline-capable app parses resumes (PDF/DOCX/Text), extracts candidate metadata and categorizes technical/soft skills, calculates an ATS compliance score, matches alignment against custom job descriptions, generates executive summaries, provides actionable improvements, and exports visual PDF evaluation reports.
@@ -126,3 +127,6 @@ SKILLS
 - Tools: Git, GitHub, Jira, VS Code
 - Soft Skills: Leadership, Collaboration, Agile, Problem Solving, Communication
 ```
+=======
+# AI-Resume-Analyzer
+>>>>>>> 503488d8e27d6f161a033653950c24daeca9edfd
